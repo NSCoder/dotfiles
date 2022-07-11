@@ -1,0 +1,12 @@
+.+~          # emacs backup files
+\#.*\#       # emacs autosave files
+
+\.git
+
+^/README.*
+^/LICENSE.*
+^/COPYING
+
+\.DS_Store
+\.AppleDouble
+\.LSOverride
